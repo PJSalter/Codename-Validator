@@ -1,3 +1,5 @@
+//...................CodeNameValidator...............//
+
 const store = document.getElementById('codeName');
 
 const pressed = document.getElementById('transform-button');
