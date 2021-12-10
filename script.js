@@ -32,9 +32,9 @@ function isAllPresent(str) {
 
 pressed.addEventListener('click', function(){
   let stringy = store.value;
-  console.log(stringy)
+  //console.log(stringy)
   let password = checkLength(stringy) && isAllPresent(stringy);
-  console.log(password)
+  //console.log(password)
   //let stringy = store.textContent;
 
   //if password is correct then pop up message with access granted
