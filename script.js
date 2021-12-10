@@ -5,9 +5,9 @@ const pressed = document.getElementById('transform-button');
 const notifyAlert = document.getElementById('message');
 
 function checkLength(str) {
-  console.log(str);
+  //console.log(str);
   //let regex = str.match(/\w{6,}/)
-  console.log(regex);
+  //console.log(regex);
   if (str.length > 5) {
     return true;
   } else {
@@ -17,7 +17,7 @@ function checkLength(str) {
 function isAllPresent(str) {
   // Regex to check if a string contains an uppercase or lowercase.
   let pattern = new RegExp("^(?=.*[a-z])(?=.*[A-Z]).+$");
-  console.log(pattern);
+  //console.log(pattern);
   // If the string is empty then return false
   if (!str || str.length === 0) {
     return true;
