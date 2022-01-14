@@ -2,7 +2,7 @@
 
 ## [Click to see Codename Validator](https://pjsalter.github.io/Codename-Validator/)
 
-### This was a prompt from FoundersAndCoders where I had to create and run all HTML, CSS and Javascript to be fully workable. This included an input box to type in the codename, the input is a string and a button once clicked will pop up a message on screen, my styling was crocodile themed to make it interactive :crocodile:.
+### This is a prompt from FoundersAndCoders where I had to create and run all HTML, CSS and Javascript which is fully workable. This included an input box to type in the codename, the input is a string and a button once clicked will pop up a message on screen, my styling was crocodile themed to make it interactive :crocodile:.
 
 ### Within the JavaScript I wrote a function that checked the length of the string, this will have a true or false statement whether it's five characters long or not.
 
